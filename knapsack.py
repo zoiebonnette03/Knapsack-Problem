@@ -45,7 +45,7 @@ def findSelectedExp():
 
 # call function to populate table
 populateKnapsackTable() 
-# call function to find selexted experiences
+# call function to find selected experiences
 findSelectedExp()
 
 # find & print max enjoyment points -> dp[5][20]
